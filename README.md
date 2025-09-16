@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on my friend
 - 📫 How to reach me it's secret
 
-[![Warid27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warid27)](https://github-readme-stats.vercel.app/api?username=Warid27&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+[![Warid27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warid27)](https://github-readme-stats.vercel.app/api?username=Warid27&show_icons=true&theme=radical)
